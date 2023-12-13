@@ -18,7 +18,7 @@
 **Digitalni temperaturni senzor - TMP102**
 ![Temperaturni senzor](https://cdn.sparkfun.com//assets/parts/1/0/5/9/3/13314-02a.jpg)
 
-**Optokapler - PC817**
+**Optokapler - PC817**\
 ![Optokapler](https://robu.in/wp-content/uploads/2018/12/PC817-DIP-4-Transistor-Output-Optocoupler-Pack-of-5-ICs-6.jpg)
 
 **Induktivni NPN Proximity Senzor - LN30Y-Z15NK**
